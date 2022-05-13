@@ -6,3 +6,4 @@
 - 💬 Ask me about Freelancing (Fiverr + Upwork)
 - 😄 Pronouns: He/Him/His
 
+![](https://komarev.com/ghpvc/?username=zulkefal)
