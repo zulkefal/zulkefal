@@ -1,6 +1,4 @@
-[![MasterHead](https://media-exp1.licdn.com/dms/imag...)](https://khushboogoel01.github.io)
-
-<h1 align="center">Hi 👋, I'm Zulkefal</h1>
+<h1 align="center">Hi There 👋, I'm Zulkefal</h1>
 <h3 align="center">I am a BlockChain Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zulkefal&label=Profile%20views&color=0e75b6&style=flat" alt="zulkefal" /> </p>
