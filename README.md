@@ -3,7 +3,7 @@
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
-    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=I+am+BlocChain+Enthusiast;Empowering+Others;Nice+To+Meet+You+...&center=true"></a>
+    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=I+am+Block-Chain+Enthusiast;Empowering+Others;Nice+To+Meet+You+...&center=true"></a>
 
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zulkefal&label=Profile%20views&color=0e75b6&style=flat" alt="zulkefal" /> </p>
