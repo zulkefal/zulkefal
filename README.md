@@ -38,7 +38,7 @@
   <summary><b>📈 GitHub Stats</b></summary>
   <p align="center">
     <a href="https://github.com/zulkefal/zulkefal"><img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=zulkefal&theme=highcontrast"/></a>
-    <a href="https://github.com/zulkefal/zulkefal"><img alt="Zulkefal's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=zulkefal&show_icons=true&theme=merko" width=55%/></a>
+ 
 
   
 </details>
