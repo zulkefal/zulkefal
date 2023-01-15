@@ -39,11 +39,10 @@
   <p align="center">
     <a href="https://github.com/zulkefal/zulkefal"><img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=zulkefal&theme=highcontrast"/></a>
     <a href="https://github.com/zulkefal/zulkefal"><img alt="Zulkefal's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=zulkefal&show_icons=true&theme=merko" width=55%/></a>
-    <a href="https://github.com/zulkefal/zulkefal"><img alt="Zulkefal's language used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zulkefal&layout=compact&langs_count=8&theme=gruvbox" width=40%/></a>
+
   
 </details>
 
- 
-[![Amogh's github activity graph](https://activity-graph.herokuapp.com/graph?username=zulkefal&bg_color=000000&color=3620f7&line=5a0c99&point=1adbce&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
  
  <!--[zulkefal's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=zulkefal&theme=xcode)>
