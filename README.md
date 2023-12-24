@@ -24,8 +24,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/zulkefalm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zulkefalm" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/zulkefal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zulkefal" height="30" width="40" /></a>
+<a href="https://twitter.com/ZulkefalKhan4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zulkefalm" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ethereumblockchaindeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zulkefal" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/17253387" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17253387" height="30" width="40" /></a>
 <a href="https://instagram.com/zulkefal_m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zulkefal_m" height="30" width="40" /></a>
 </p>
